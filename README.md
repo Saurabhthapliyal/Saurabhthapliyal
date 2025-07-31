@@ -7,10 +7,6 @@
 - JavaScript | React | Node.js
 - HTML | CSS | Tailwind
 - MongoDB | Git | GitHub
-- 🌐 HTML
-- 🎨 CSS
-- 📜 JavaScript
-- ⚛️ React
-- 🐍 Python
+
 
 
