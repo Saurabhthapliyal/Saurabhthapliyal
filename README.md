@@ -1,7 +1,5 @@
 
-🎓 Final year B.Tech CSE student  
-💻 Passionate about Web Development, JavaScript & React  
-🚀 Looking for a full-time role in Software Development
+🎓 Final year B.Tech CSE student 
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" title="HTML5"/>
